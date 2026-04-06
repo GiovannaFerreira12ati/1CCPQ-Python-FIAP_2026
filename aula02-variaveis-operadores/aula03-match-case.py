@@ -1,4 +1,4 @@
-escolha_usuario=5
+escolha_usuario=1
 #0-sair do programa
 #1-entrar no programa
 # >>>> erro!
